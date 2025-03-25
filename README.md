@@ -1,6 +1,4 @@
 # USB-Audio-Player
-Embedded audio project to interface USB audio data with an audio codec and send the output to a headphone jack.
-
 This is my first STM32 project, where I'm learning about DAC, DMA, I2C, and I2S. It involves using an audio codec (CS43L22), which converts digital audio data into an analog signal that can be played through speakers or headphones connected to the board. 
 
 # Definitions
